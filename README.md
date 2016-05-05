@@ -1,8 +1,8 @@
 # Machine Learning in Java
 
-Supporting material (code, libs etc) for [Machine Learning in Java](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-java) (Packtpub Publishing).
+Supporting material (code, libs etc) for [Machine Learning in Java](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-java?utm_source=github&utm_medium=repository&utm_campaign=9781784396589) (Packtpub Publishing).
 
-[Machine Learning in Java](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-java) will provide you with the techniques and tools you need to quickly gain insight from complex data. You will start by learning how to apply machine learning methods to a variety of common tasks including classification, prediction, forecasting, market basket analysis, and clustering. Moving on, you will discover how to detect anomalies and fraud, and ways to perform activity recognition, image recognition, and text analysis. By the end of the book, you will explore related web resources and technologies that will help you take your learning to the next level.
+[Machine Learning in Java](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-java?utm_source=github&utm_medium=repository&utm_campaign=9781784396589) will provide you with the techniques and tools you need to quickly gain insight from complex data. You will start by learning how to apply machine learning methods to a variety of common tasks including classification, prediction, forecasting, market basket analysis, and clustering. Moving on, you will discover how to detect anomalies and fraud, and ways to perform activity recognition, image recognition, and text analysis. By the end of the book, you will explore related web resources and technologies that will help you take your learning to the next level.
 
 Code is organized by chapters - each chapter is a seperate Eclipse project with all the corresponding libraries and datasets.
 
@@ -19,5 +19,9 @@ Code is organized by chapters - each chapter is a seperate Eclipse project with 
 1. Text Mining with Mallet: Topic Modelling and Spam Detection
 1. What is Next?
 
-Sample chapters and additional materials are available at http://machine-learning-in-java.com
+[Sample chapters] (http://machine-learning-in-java.com) and additional materials are available.
+
+## Related books
+* [Python Machine Learning] (https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783555130)
+* [R Machine Learning By Example] (https://www.packtpub.com/big-data-and-business-intelligence/r-machine-learning-example?utm_source=github&utm_medium=repository&utm_campaign=9781784390846)
 
