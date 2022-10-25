@@ -25,3 +25,7 @@ Code is organized by chapters - each chapter is a seperate Eclipse project with 
 * [Python Machine Learning] (https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783555130)
 * [R Machine Learning By Example] (https://www.packtpub.com/big-data-and-business-intelligence/r-machine-learning-example?utm_source=github&utm_medium=repository&utm_campaign=9781784390846)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781784396589">https://packt.link/free-ebook/9781784396589 </a> </p>
